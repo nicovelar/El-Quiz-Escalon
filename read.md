@@ -1,7 +1,7 @@
 Host, usuario, contraseña y base de datos utilizada
 ("localhost", "root", "admin","quiz");
 
-utilizé php my admin
+Utilizé php my admin
 y xampp para que el juego funcione simulando un host y una base de datos 
 De esta forma el juego puede extenderse en un futuro y en vez de 25, poder tener las preguntas de la longitud que desee
 
